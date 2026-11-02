@@ -74,3 +74,4 @@ source(file.path("R", "analysis_helpers.R"))
 source(file.path("R", "pool_replicate_runs.R"))
 pooled <- pool_replicate_runs(synthetic_dir, replicates)
 pooled$table
+save(pooled, file = file.path("outputs", "synthetic", "pooled.rda"))
