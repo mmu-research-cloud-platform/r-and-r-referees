@@ -1,3 +1,5 @@
 /outputs/
 *_files*
 *.html
+*pooled.rda
+*.zip
