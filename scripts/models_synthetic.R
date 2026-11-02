@@ -8,7 +8,6 @@
 library(tidyverse)
 library(readxl)
 library(mgcv)
-library(gratia)
 library(synthpop)
 library(broom)
 library(future)

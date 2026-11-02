@@ -4,7 +4,6 @@
 # and writes to outputs/original_restricted/, which must not be published.
 library(tidyverse)
 library(mgcv)
-library(gratia)
 library(broom)
 library(patchwork)
 

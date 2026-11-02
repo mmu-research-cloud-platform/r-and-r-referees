@@ -4,7 +4,7 @@
 Sys.setenv(
   ORIGINAL_WORKERS = "10",
   ORIGINAL_REPLICATE = "2",
-  ORIGINAL_FILE = "data.syn.csv",
+  ORIGINAL_FILE = "osf/data.syn.csv",
   RESTRICTED_DIR = file.path(tempdir(), "replicate_test")
 )
 source("scripts/models_original.R")

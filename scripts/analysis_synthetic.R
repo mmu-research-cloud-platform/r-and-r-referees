@@ -5,7 +5,6 @@
 # outputs/synthetic/.
 library(tidyverse)
 library(mgcv)
-library(gratia)
 library(synthpop)
 library(broom)
 library(patchwork)

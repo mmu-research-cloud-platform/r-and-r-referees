@@ -6,7 +6,6 @@
 library(tidyverse)
 library(readxl)
 library(mgcv)
-library(gratia)
 library(broom)
 library(future)
 library(future.apply)
